@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/DELETE.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/PATCH.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/PUT.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/DeleteSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PatchSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PutSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/GET.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/GET.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/POST.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/POST.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Enderecos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/pojos/Telefones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/rest/APIConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/APIConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/rest/ServiceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/rest/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/setup/SetupManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/core/setup/SetupManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/core/util/GeraDocumento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/ComunsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/ComunsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/pojos/Enderecos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/pojos/Pessoas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/pojos/Telefones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/rest/APIConstant$ApiMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/rest/APIConstant$ApiMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/rest/ServiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/rest/ServiceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/setup/SetupManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/core/setup/SetupManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/core/util/GeraDocumento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/hooks/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/ComunsSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/ComunsSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/GetSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/GetSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/PostSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gherkin/stepdefs/PostSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/runner/RunTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Substep Feature" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WQjqco95ZS21TMKi9IibUkCnxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/features" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.core.pojos" />
+      <recent name="gherkin.stepdefs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RLLV\IdeaProjects\desafio\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RunTest (1)">
+    <configuration name="RunTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="challenge-accepted" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="desafio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunTest (1)" />
+        <item itemvalue="TestNG.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d835901c-dc49-48f2-bd86-cb42eb2e7831" name="Default Changelist" comment="" />
+      <created>1579088904058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579088904058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="134" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593989069550">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="416" y="134" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.27.1366.700@0.27.1366.700" timestamp="1593989069550" />
+    <state x="352" y="178" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593983149942">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="352" y="178" width="651" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.700@0.27.1366.700" timestamp="1593983149942" />
+    <state x="1965" y="0" width="702" height="1048" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602588488596">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1965" y="0" width="702" height="1048" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602588488596" />
+    <state x="2238" y="259" width="166" height="528" key="#xdebugger.XInspectDialog" timestamp="1602627816760">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2238" y="259" width="166" height="528" key="#xdebugger.XInspectDialog/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602627816760" />
+    <state x="2072" y="248" width="1119" height="511" key="#xdebugger.evaluate" timestamp="1602631096241">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="505" y="187" key="#xdebugger.evaluate/0.27.1366.700@0.27.1366.700" timestamp="1593999468635" />
+    <state x="2072" y="248" width="1119" height="511" key="#xdebugger.evaluate/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631096241" />
+    <state width="431" height="478" key="DebuggerActiveHint" timestamp="1593999335303">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state width="431" height="478" key="DebuggerActiveHint/0.27.1366.700@0.27.1366.700" timestamp="1593999335303" />
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593988899693">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="466" y="134" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1593988899693" />
+    <state width="1874" height="204" key="GridCell.Tab.0.bottom" timestamp="1602631367356">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.27.1366.700@0.27.1366.700" timestamp="1594001085133" />
+    <state width="1874" height="204" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367356" />
+    <state width="1874" height="204" key="GridCell.Tab.0.center" timestamp="1602631367355">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.center/0.27.1366.700@0.27.1366.700" timestamp="1594001085131" />
+    <state width="1874" height="204" key="GridCell.Tab.0.center/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367355" />
+    <state width="1874" height="204" key="GridCell.Tab.0.left" timestamp="1602631367355">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.left/0.27.1366.700@0.27.1366.700" timestamp="1594001085130" />
+    <state width="1874" height="204" key="GridCell.Tab.0.left/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367355" />
+    <state width="1874" height="204" key="GridCell.Tab.0.right" timestamp="1602631367355">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.right/0.27.1366.700@0.27.1366.700" timestamp="1594001085132" />
+    <state width="1874" height="204" key="GridCell.Tab.0.right/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367355" />
+    <state width="1874" height="353" key="GridCell.Tab.1.bottom" timestamp="1602631367352">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.bottom/0.27.1366.700@0.27.1366.700" timestamp="1594001085136" />
+    <state width="1874" height="353" key="GridCell.Tab.1.bottom/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367352" />
+    <state width="1874" height="353" key="GridCell.Tab.1.center" timestamp="1602631367352">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.center/0.27.1366.700@0.27.1366.700" timestamp="1594001085135" />
+    <state width="1874" height="353" key="GridCell.Tab.1.center/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367352" />
+    <state width="1874" height="353" key="GridCell.Tab.1.left" timestamp="1602631367352">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.left/0.27.1366.700@0.27.1366.700" timestamp="1594001085134" />
+    <state width="1874" height="353" key="GridCell.Tab.1.left/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367352" />
+    <state width="1874" height="353" key="GridCell.Tab.1.right" timestamp="1602631367352">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.right/0.27.1366.700@0.27.1366.700" timestamp="1594001085136" />
+    <state width="1874" height="353" key="GridCell.Tab.1.right/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631367352" />
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor" timestamp="1593987301704">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="172" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1593987301704" />
+    <state width="960" height="542" key="XDebugger.FullValuePopup" timestamp="1602631057686">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="683" height="351" key="XDebugger.FullValuePopup/0.27.1366.700@0.27.1366.700" timestamp="1594001043649" />
+    <state width="960" height="542" key="XDebugger.FullValuePopup/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602631057686" />
+    <state x="2017" y="262" width="618" height="522" key="find.popup" timestamp="1602629067225">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2017" y="262" width="618" height="522" key="find.popup/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602629067225" />
+    <state x="1635" y="227" width="1372" height="592" key="new project wizard" timestamp="1601381393302">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1635" y="227" width="1372" height="592" key="new project wizard/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1601381393302" />
+    <state x="1977" y="421" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1602629339501">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="435" y="300" width="485" height="151" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.27.1366.700@0.27.1366.700" timestamp="1593988921940" />
+    <state x="1977" y="421" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602629339501" />
+    <state x="1989" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1602596530078">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1989" y="229" width="672" height="678" key="search.everywhere.popup/1366.0.1920.1080/0.105.1366.768@1366.0.1920.1080" timestamp="1602596530078" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/core/americanas/TelaCadastro.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/ComunsSteps.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/core/rest/ServiceFactory.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PatchSteps.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PatchSteps.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/DeleteSteps.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/GetSteps.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/gherkin/stepdefs/PostSteps.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
